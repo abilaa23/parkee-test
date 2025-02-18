@@ -14,4 +14,5 @@ parkee-test
    npx cypress open
 
 4. **Cypress is opened choose:**
-   api_test.cy.js
+   for api : api_test.cy.js
+   for web : web-test.cy.js
